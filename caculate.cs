@@ -11,4 +11,8 @@ public static class caculate
 		else
 			return b;
 	}
+	public int subtract(int a,int b)
+	{
+		return a-b;
+	}
 }
